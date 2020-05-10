@@ -1,3 +1,8 @@
+Fork of Richard Taylor's LADSPA plugins for Active Loudspeakers. I used them for a private project and found it more accesible here.
+See https://faculty.tru.ca/rtaylor/rt-plugins/ for details and original work.
+
+----
+
 Compiling
 ~~~~~~~~~
 
